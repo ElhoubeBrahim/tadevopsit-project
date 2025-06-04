@@ -2,7 +2,7 @@
   "name": "tadevopsit-project-backend",
   "version": "1.0.0",
   "scripts": {
-    "start": "npx tsc && node dist/index.js",
+    "start": "npx tsc && node dist/src/index.js",
     "dev": "ts-node src/index.ts",
     "build": "npx tsc",
     "test": "jest",
